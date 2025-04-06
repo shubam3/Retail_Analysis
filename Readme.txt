@@ -3,8 +3,7 @@ Hi,
 Project Title: Retail Transaction Data Analysis
 Name: Shubam Khantwal
 Course: CS 5805 - Machine Learning 1
-Instructor: Dr. Reza Jafari
-Submission Date: December 8, 2024
+
 
 Below are the details, how to access and use this project
 
